@@ -1,0 +1,5 @@
+-- RAW schema ---
+
+create or replace TABLE AGS_GAME_AUDIENCE.RAW.GAME_LOGS (
+	RAW_LOG VARIANT
+);
